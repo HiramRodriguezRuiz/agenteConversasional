@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="enter_your_query">Enter your query\n</string>
+    <string name="response">Response</string>
+    <string name="question">Question</string>
+    <string name="app_name">Chatbot</string>
+</resources>
